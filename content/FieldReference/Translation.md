@@ -1,4 +1,11 @@
-﻿## Translation
+---
+title: "Translation"
+date: 2022-10-29T21:38:14+05:30
+
+---
+
+
+## Translation
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Translation Id | TranslationId | Int<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

@@ -1,6 +1,12 @@
-﻿## AppEvent
+---
+title: "AppEvent"
+date: 2022-10-29T21:38:14+05:30
+
+---
+
+## AppEvent
 View the App Event history  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Event Id | EventId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

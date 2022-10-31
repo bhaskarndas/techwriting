@@ -1,6 +1,12 @@
-﻿## UserProfile
+---
+title: "UserProfile"
+date: 2022-10-29T21:38:14+05:30
+
+---
+
+## UserProfile
 Configure access permissions for each user profile  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Profile Id | ProfileId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  
