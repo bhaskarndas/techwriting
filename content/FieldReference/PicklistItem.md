@@ -1,4 +1,5 @@
-﻿## PicklistItem
+
+## PicklistItem
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Picklist Item Id | PicklistItemId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

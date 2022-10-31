@@ -1,8 +1,4 @@
----
-title: "ApiConnection"
-date: 2022-10-29T21:38:14+05:30
 
----
 
 ## ApiConnection
 Connections contains authentication and other information required by NetMatix in order log into external services through their Application Program Interface (API) endpoints to access data stored in those services.  

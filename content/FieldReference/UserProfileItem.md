@@ -1,8 +1,4 @@
----
-title: "UserProfileItem"
-date: 2022-10-29T21:38:14+05:30
 
----
 
 ## UserProfileItem
 | Field Label | Field Name | Field Type | Description |  

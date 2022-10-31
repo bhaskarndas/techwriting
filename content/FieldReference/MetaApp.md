@@ -1,6 +1,7 @@
-﻿## MetaApp
-Configure applications, related entities, pages and profiles 
-  
+
+## MetaApp
+Configure applications, related entities, pages and profiles
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | App Id | AppId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

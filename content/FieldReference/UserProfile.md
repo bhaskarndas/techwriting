@@ -1,8 +1,4 @@
----
-title: "UserProfile"
-date: 2022-10-29T21:38:14+05:30
 
----
 
 ## UserProfile
 Configure access permissions for each user profile  

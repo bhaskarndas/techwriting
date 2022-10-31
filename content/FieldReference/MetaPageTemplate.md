@@ -1,6 +1,7 @@
-﻿## MetaPageTemplate
+
+## MetaPageTemplate
 Configure templates used when creating new pages  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Template Id | TemplateId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

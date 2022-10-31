@@ -1,8 +1,4 @@
----
-title: "SystemSetting"
-date: 2022-10-29T21:38:14+05:30
 
----
 
 ## SystemSetting
 | Field Label | Field Name | Field Type | Description |  

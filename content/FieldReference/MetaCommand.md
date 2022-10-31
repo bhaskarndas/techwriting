@@ -1,4 +1,5 @@
-﻿## MetaCommand
+
+## MetaCommand
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Command Id | CommandId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

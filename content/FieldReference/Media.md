@@ -1,6 +1,7 @@
-﻿## Media
+
+## Media
 The Media entity stores links to media such as PDFs, images, and spreadsheets uploaded by employees or clients. It is a system table and cannot be edited by users.  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Media Id | MediaId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

@@ -1,4 +1,5 @@
-﻿## Job
+
+## Job
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Job Id | JobId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

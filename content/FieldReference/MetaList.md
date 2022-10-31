@@ -1,6 +1,7 @@
-﻿## MetaList
+
+## MetaList
 Configure how lists of entities are displayed  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | List Id | ListId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  
