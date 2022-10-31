@@ -1,6 +1,7 @@
 # 
 
-﻿## CurrencyPair
+
+## CurrencyPair
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Currency Pair Id | CurrencyPairId | Int<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

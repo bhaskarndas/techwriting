@@ -1,6 +1,7 @@
 # 
 
-﻿## MetaReport
+
+## MetaReport
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Report Id | ReportId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

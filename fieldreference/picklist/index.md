@@ -1,8 +1,9 @@
 # 
 
-﻿## Picklist
-Modify user-defined picklists, eg Client Categories or Marketing Segments 
-  
+
+## Picklist
+Modify user-defined picklists, eg Client Categories or Marketing Segments
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Picklist Id | PicklistId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

@@ -1,8 +1,9 @@
 # 
 
-﻿## ListViewDefinition
-Define and manage list views to see a specific set of Clients, Leads or other entity records. 
-  
+
+## ListViewDefinition
+Define and manage list views to see a specific set of Clients, Leads or other entity records.
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | List View Definition Id | ListViewDefinitionId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

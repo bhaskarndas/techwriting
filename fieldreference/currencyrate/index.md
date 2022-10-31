@@ -1,6 +1,7 @@
 # 
 
-﻿## CurrencyRate
+
+## CurrencyRate
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Currency Rate Id | CurrencyRateId | Int<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

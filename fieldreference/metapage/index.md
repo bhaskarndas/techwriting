@@ -1,8 +1,9 @@
 # 
 
-﻿## MetaPage
+
+## MetaPage
 Configure how entity lists and details pages are displayed  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Page Id | PageId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

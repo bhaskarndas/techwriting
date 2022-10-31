@@ -1,8 +1,11 @@
 # 
 
-﻿## MetaEntity
-Capture your unique firm data in custom fields or in new custom entities 
-  
+
+
+
+##MetaEntity
+Capture your unique firm data in custom fields or in new custom entities
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Entity Id | EntityId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

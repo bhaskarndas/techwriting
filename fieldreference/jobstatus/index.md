@@ -1,6 +1,7 @@
 # 
 
-﻿## JobStatus
+
+## JobStatus
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Job Status Id | JobStatusId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

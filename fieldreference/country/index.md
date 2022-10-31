@@ -1,6 +1,8 @@
 # 
 
-﻿## Country
+
+
+## Country
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Country Code | CountryCode | String<br/>  [Key]<br/>  [Required]<br/>  [Unique]<br/>  [MinLen: 2]<br/>  [MaxLen: 2]<br/>  [ReadOnlyAfterInsert] | ISO 2 letter country code.  |  
