@@ -1,6 +1,7 @@
-# 
+# UserProfileItem
 
-﻿## UserProfileItem
+
+## UserProfileItem
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Profile Item Id | ProfileItemId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

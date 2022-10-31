@@ -1,6 +1,8 @@
-# 
+# Translation
 
-﻿## Translation
+
+
+## Translation
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Translation Id | TranslationId | Int<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

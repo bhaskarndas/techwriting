@@ -1,6 +1,7 @@
-# 
+# ApplicationUser
 
-﻿## ApplicationUser
+
+## ApplicationUser
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Id | Id | String<br/>  [Key]<br/>  [Required]<br/>  [Unique]<br/>  [MaxLen: 36]<br/>  [ReadOnlyAfterInsert] |  |  

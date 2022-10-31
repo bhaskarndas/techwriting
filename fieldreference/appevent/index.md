@@ -1,8 +1,9 @@
-# 
+# AppEvent
 
-﻿## AppEvent
+
+## AppEvent
 View the App Event history  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Event Id | EventId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

@@ -1,8 +1,9 @@
-# 
+# UserProfile
 
-﻿## UserProfile
+
+## UserProfile
 Configure access permissions for each user profile  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Profile Id | ProfileId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  

@@ -1,8 +1,9 @@
-# 
+# ApiConnection
 
-﻿## ApiConnection
+
+## ApiConnection
 Connections contains authentication and other information required by NetMatix in order log into external services through their Application Program Interface (API) endpoints to access data stored in those services.  
-  
+
 | Field Label | Field Name | Field Type | Description |  
 | ---- | ---- | ---- | ---- |  
 | Api Connection Id | ApiConnectionId | Guid<br/>  [Key]<br/>  [Required]<br/>  [ReadOnly] |  |  
