@@ -6,8 +6,7 @@ theme="LoveIt"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
-# language name ["English", "简体中文", "Français", "Polski", ...]
-languageName = "English"
+
 # whether to include Chinese/Japanese/Korean
 hasCJKLanguage = false
 
